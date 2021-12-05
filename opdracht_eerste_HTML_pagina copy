@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- hier zet je de code in de head tags -->
+        <title> Dit is de tweede opdracht bij Wincacademy </title>
+        <h1>Dit is de tweede opdracht</h1>
+        <h2>Hieronder staan dingen die ik leuk vind:</h2>
+    </head>
+    <body>
+       <!-- hier zet je de code in de body tags-->
+       <ul>
+           <li>Mountainbiken</li>
+           <li>Programmeren</li>
+           <li>Sleutelen aan mijn oldtimer</li>
+       </ul> 
+       <a>Link naar mijn foto</a>
+       <img width="200" src="img/DSC_0809.jpg">
+    </body>
+<hr>Hieronder staat de toelichting van mijn hobby's:</hr>
+
+    </html>
